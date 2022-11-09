@@ -1,0 +1,33 @@
+{
+  "name": "rockpaperscissordiscordbot",
+  "version": "1.0.0",
+  "description": "Discord Bot for playing rock paper scissor game ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VineethDShetty/RockPaperScissorDiscordBot.git"
+  },
+  "keywords": [
+    "Discord",
+    "Bot",
+    "DiscordBot",
+    "Rock",
+    "Paper",
+    "Scissor",
+    "RockPaperScissor"
+  ],
+  "author": "https://github.com/VineethDShetty",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VineethDShetty/RockPaperScissorDiscordBot/issues"
+  },
+  "homepage": "https://github.com/VineethDShetty/RockPaperScissorDiscordBot#readme",
+  "dependencies": {
+    "discord.js": "^14.6.0",
+    "dotenv": "^16.0.3",
+    "random-number": "^0.0.9"
+  }
+}
