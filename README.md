@@ -1,2 +1,2 @@
 # RockPaperScissorDiscordBot
-A Discord Bot to play rock paper scissor
+A Discord Bot to play Rock paper scissor
